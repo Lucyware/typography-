@@ -1,6 +1,6 @@
 ---
 header_feature_image: /uploads/log.jpg
-title: About the Site
+title: About
 image: ../uploads/istockphoto-524688921-170667a.jpg
 subtitle: "All about me, my life and my blog "
 permalink: /about/
@@ -35,4 +35,4 @@ So if you’re a TV and little bit of a history buff like I am, you’ve come to
 
 ## **ABOUT THE SITE**
 
-My goals for this site is it to be a place for people to quench their curiosity on the reasons behind why you are attracted to a certain tv programme and thoughts gone in behind it to associate it your specific brand.
+My goals for this site is it to be a place for people to feed their curiosity on the reasons behind why you are attracted to a certain tv programme and the thoughts gone into creating a specific brand. As well as the adaptation that have taken place over a number of years.
