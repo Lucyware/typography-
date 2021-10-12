@@ -2,7 +2,7 @@
 layout: post
 title: Behind the word EastEnders
 date: 2021-10-12T13:14:53.474Z
-image: ../uploads/title_card_2009-2012_-2816.9-29.webp
+image: ../uploads/6_wa1107426.jpg
 title_color: "#ffffff"
 comments: false
 ---
