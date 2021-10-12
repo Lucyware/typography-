@@ -24,7 +24,6 @@ familiarity of the words that greet them and fill their screen. It indicated to 
 that it is time to relax and unwind for the day giving them a positive association with the
 EastEnders brand.
 
-
 The EastEnders brand is associated with the three main aspects of the show the theme
 tune, the title screen and the ending drum beats tune, but the title screen and more
 importantly the typography that has become famous in its own way. It was designed by BBC
@@ -34,6 +33,7 @@ created in 1896. This font is unique and well recognised through the enormity of
 as it subtly tells you what to expect from the show and some of the key themes
 incorporated within.
 
+![](../uploads/end_credits_-281993-1994-29.webp)
 
 We can see this as it seems to be a form of classic serif font maybe suggesting EastEnders is
 a classic soap opera but with its own unique twists. As well we can also see that it shows a
@@ -47,6 +47,7 @@ positivity, light, humility and beginnings, this entices the audience as they no
 EastEnders with these positive connotations and are intrigued to watch it and discover
 more.
 
+![](../uploads/title_card_2009-2012_-2816.9-29.webp)
 
 The font also tells us a lot more as the weight of the typeface is regular throughout
 demonstrating that the show is consistent and reliable as it has shown to be, being
