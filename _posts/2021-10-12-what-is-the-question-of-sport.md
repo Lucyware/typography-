@@ -2,7 +2,7 @@
 layout: post
 title: What is the Question of Sport?
 date: 2021-10-12T14:25:11.424Z
-image: ../uploads/czgfdxzb_400x400.jpg
+image: ../uploads/istockphoto-1211429984-170667a.jpg
 title_color: "#ffffff"
 caption: The typological changes that have developed through this iconic sports
   show history.
@@ -17,10 +17,10 @@ Denise Lewis, Chris Hoy, Anthony Joshua, Martina Navratilova, Michael Owen and S
 Coe along with many others. As well as a very special appearance from Princess Anne on the
 200 th episode attracting an audience of over 19 million viewers.
 
-
 Its long lasting and iconic history has given way to many changes throughout the program
 such as font, typeface, colours and technology, however the format of the quiz has
 remained largely intact and overall normally starts and ends as originally played.
+
 The opening titles in 1970 showed the question of sport title screen with a QS in the centre
 and ‘A Question OF SPORT’ underneath. The QS is designed in multi coloured strips I believe
 to be representing a track
