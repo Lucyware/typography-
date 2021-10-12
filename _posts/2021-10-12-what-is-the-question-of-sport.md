@@ -2,7 +2,7 @@
 layout: post
 title: What is the Question of Sport?
 date: 2021-10-12T14:25:11.424Z
-image: ../uploads/istockphoto-1211429984-170667a.jpg
+image: ../uploads/czgfdxzb_400x400.jpg
 title_color: "#ffffff"
 caption: The typological changes that have developed through this iconic sports
   show history.
