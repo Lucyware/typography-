@@ -14,7 +14,7 @@ departures of iconic characters. It has become a staple throughout so many homes
 have you ever wondered about what went into creating such a well-known title screen? And
 why it is so recognisable?
 
-![EastEnders Wiki - Fandom ](../uploads/title_card_-_first_episode_1985.webp "The first Eastenders Title Card used in 1985")
+![EastEnders Wiki - Fandom ](../uploads/title_card_-_first_episode_1985.jpg "The first Eastenders Title Card used in 1985")
 
 Throughout the shows run starting in 1985 to present the background of title screen has
 been changed many times due to the ever-changing and evolving landscape of London,
@@ -33,7 +33,7 @@ created in 1896. This font is unique and well recognised through the enormity of
 as it subtly tells you what to expect from the show and some of the key themes
 incorporated within.
 
-![EastEnders Wiki - Fandom ](../uploads/title_card_1993-1994.webp "The title card from 1994 to 1999")
+![EastEnders Wiki - Fandom ](../uploads/title_card_1993-1994.jpg "The title card from 1994 to 1999")
 
 We can see this as it seems to be a form of classic serif font maybe suggesting EastEnders is
 a classic soap opera but with its own unique twists. As well we can also see that it shows a
@@ -53,7 +53,7 @@ consistently on the air for 35 years becoming a comfort to many. Along with the 
 title also shows a regular width and contrast allowing the audience to see the text clearly
 and have great a clear image in their mind to associate with the brand.
 
-![EastEnders Wiki - Fandom ](../uploads/title_card_2009-2012_-2816.9-29.webp "The current title card fro 2012 to present")
+![EastEnders Wiki - Fandom ](../uploads/title_card_current.jpg "The current title card fro 2012 to present")
 
 Overall, I believe the EastEnders brand demonstrates a very classic image indicating to the
 viewers their style and reputation which has been built through the years on screen with
