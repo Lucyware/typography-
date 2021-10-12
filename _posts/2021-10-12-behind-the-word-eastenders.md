@@ -33,7 +33,7 @@ created in 1896. This font is unique and well recognised through the enormity of
 as it subtly tells you what to expect from the show and some of the key themes
 incorporated within.
 
-![](../uploads/end_credits_-281993-1994-29.webp)
+![EastEnders Wiki - Fandom ](../uploads/title_card_1993-1994.webp "The title card from 1994 to 1999")
 
 We can see this as it seems to be a form of classic serif font maybe suggesting EastEnders is
 a classic soap opera but with its own unique twists. As well we can also see that it shows a
@@ -47,7 +47,7 @@ positivity, light, humility and beginnings, this entices the audience as they no
 EastEnders with these positive connotations and are intrigued to watch it and discover
 more.
 
-![](../uploads/title_card_2009-2012_-2816.9-29.webp)
+![EastEnders Wiki - Fandom ](../uploads/title_card_2009-2012_-2816.9-29.webp "The current title card fro 2012 to present")
 
 The font also tells us a lot more as the weight of the typeface is regular throughout
 demonstrating that the show is consistent and reliable as it has shown to be, being
