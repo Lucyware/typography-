@@ -47,13 +47,13 @@ positivity, light, humility and beginnings, this entices the audience as they no
 EastEnders with these positive connotations and are intrigued to watch it and discover
 more.
 
-![EastEnders Wiki - Fandom ](../uploads/title_card_2009-2012_-2816.9-29.webp "The current title card fro 2012 to present")
-
 The font also tells us a lot more as the weight of the typeface is regular throughout
 demonstrating that the show is consistent and reliable as it has shown to be, being
 consistently on the air for 35 years becoming a comfort to many. Along with the weight the
 title also shows a regular width and contrast allowing the audience to see the text clearly
 and have great a clear image in their mind to associate with the brand.
+
+![EastEnders Wiki - Fandom ](../uploads/title_card_2009-2012_-2816.9-29.webp "The current title card fro 2012 to present")
 
 Overall, I believe the EastEnders brand demonstrates a very classic image indicating to the
 viewers their style and reputation which has been built through the years on screen with
