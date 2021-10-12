@@ -10,8 +10,8 @@ tags: null
 description: null
 show: true
 ---
-Hey there, I'm Lucy and welcome to TV Typography! 
+Are you a TV and design lover and want to know more about the behind the scenes in why a TV show chooses particular designs and themes?
 
-Are you a TV lover 
+Hey there, I'm Lucy and welcome to TV Typography! 
 
 This is a great place to understand
