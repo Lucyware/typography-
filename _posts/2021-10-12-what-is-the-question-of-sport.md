@@ -21,6 +21,10 @@ Its long lasting and iconic history has given way to many changes throughout the
 such as font, typeface, colours and technology, however the format of the quiz has
 remained largely intact and overall normally starts and ends as originally played.
 
+![](../uploads/hqdefault.jpg)
+
+![](../uploads/unnamed.jpg)
+
 The opening titles in 1970 showed the question of sport title screen with a QS in the centre
 and ‘A Question OF SPORT’ underneath. The QS is designed in multi coloured strips I believe
 to be representing a track
