@@ -14,7 +14,6 @@ departures of iconic characters. It has become a staple throughout so many homes
 have you ever wondered about what went into creating such a well-known title screen? And
 why it is so recognisable?
 
-
 ![EastEnders Wiki - Fandom ](../uploads/title_card_-_first_episode_1985.webp "The first Eastenders Title Card used in 1985")
 
 Throughout the shows run starting in 1985 to present the background of title screen has
@@ -24,6 +23,8 @@ created iconic symbol that has allowed viewers to feel comfort in the recognitio
 familiarity of the words that greet them and fill their screen. It indicated to many viewers
 that it is time to relax and unwind for the day giving them a positive association with the
 EastEnders brand.
+
+
 The EastEnders brand is associated with the three main aspects of the show the theme
 tune, the title screen and the ending drum beats tune, but the title screen and more
 importantly the typography that has become famous in its own way. It was designed by BBC
@@ -32,6 +33,8 @@ show in 1985, as well the show uses the typeface called Cheltenham which was ori
 created in 1896. This font is unique and well recognised through the enormity of the show,
 as it subtly tells you what to expect from the show and some of the key themes
 incorporated within.
+
+
 We can see this as it seems to be a form of classic serif font maybe suggesting EastEnders is
 a classic soap opera but with its own unique twists. As well we can also see that it shows a
 high X height allowing the words to become more legible and easier to read form a further
@@ -43,6 +46,8 @@ the viewers’ attention as a highlighting tool. The colour white is also associ
 positivity, light, humility and beginnings, this entices the audience as they now associate
 EastEnders with these positive connotations and are intrigued to watch it and discover
 more.
+
+
 The font also tells us a lot more as the weight of the typeface is regular throughout
 demonstrating that the show is consistent and reliable as it has shown to be, being
 consistently on the air for 35 years becoming a comfort to many. Along with the weight the
