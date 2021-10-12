@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What is the Question of Sport?
+title: I pose A Question of Sport?
 date: 2021-10-12T14:25:11.424Z
 image: ../uploads/czgfdxzb_400x400.jpg
 title_color: "#ffffff"
