@@ -10,4 +10,4 @@ logo: ../uploads/tv-typography-logo.jpg
 favicon: /uploads/favicon.ico
 gridlayout: true
 fixednavbar: false
-upzoom: true
+upzoom: false
