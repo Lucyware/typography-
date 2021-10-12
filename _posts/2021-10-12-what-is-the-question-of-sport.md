@@ -4,6 +4,8 @@ title: What is the Question of Sport?
 date: 2021-10-12T14:25:11.424Z
 image: ../uploads/czgfdxzb_400x400.jpg
 title_color: "#ffffff"
+caption: The typological changes that have developed through this iconic sports
+  show history.
 comments: false
 ---
 Question of sport first appeared on our screens in 1970, the television quiz was promised to
