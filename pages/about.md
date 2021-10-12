@@ -1,7 +1,7 @@
 ---
 header_feature_image: /uploads/log.jpg
 title: About
-subtitle: All about me and my life
+subtitle: "All about me, my life and my blog "
 permalink: /about/
 date: 2020-06-29T15:36:12.231Z
 layout: page
@@ -10,11 +10,10 @@ tags: null
 description: null
 show: true
 ---
+Are you a TV and design lover?
 
-This page is where you write something about yourself. You can add pictures so that people know where you come from or where you live.
+Do you want to know more about the behind the scenes in why a TV show chooses particular designs and themes?
 
-This file is an example of a page in Jekyll, that automatically shows up in the header navigation, you can delete or modify this file freely.
+Hey there, I'm Lucy and welcome to TV Typography! 
 
-This file is saved inside the _pages_ folder and is saved as _about.md_ . Any file in this folder (as long as it has  the YAML header) will automatically show up as a link in the header bar.
-
-You should use **markdown**to write this text and this will automatically be converted to `HTML`.
+This is a great place to understand
