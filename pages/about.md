@@ -2,7 +2,7 @@
 header_feature_image: /uploads/log.jpg
 title: About
 image: ../uploads/istockphoto-524688921-170667a.jpg
-subtitle: "All about me, my life and my blog "
+subtitle: "All About Me, My Life and My Blog "
 permalink: /about/
 date: 2020-06-29T15:36:12.231Z
 layout: page
