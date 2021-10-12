@@ -10,7 +10,9 @@ tags: null
 description: null
 show: true
 ---
-Are you a TV and design lover and want to know more about the behind the scenes in why a TV show chooses particular designs and themes?
+Are you a TV and design lover?
+
+Do you want to know more about the behind the scenes in why a TV show chooses particular designs and themes?
 
 Hey there, I'm Lucy and welcome to TV Typography! 
 
