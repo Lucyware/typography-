@@ -1,6 +1,7 @@
 ---
 header_feature_image: /uploads/log.jpg
 title: About the Site
+image: ../uploads/istockphoto-524688921-170667a.jpg
 subtitle: "All about me, my life and my blog "
 permalink: /about/
 date: 2020-06-29T15:36:12.231Z
