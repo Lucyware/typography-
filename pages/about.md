@@ -19,20 +19,8 @@ show: true
 
 Me Too! Hopefully you will enjoy scrolling through and learn something new!
 
-## **ABOUT ME**
-
-Hey there, I'm Lucy and welcome to TV Typography! 
-
-I am new to the wonderful world of Blogging and am very pleased to be able to share with you all my interesting and unique thoughts around the wonderful world of television. 
-
-As I have always been intrigued about the magic of the TV universe, how it can transport you to another world and take you to another place and time. Where you can test your knowledge and imagination all in one place. See the words from a page come to life before your eyes. 
-
-It has been what had linked my interests and passions all in one place, on one screen. 
-
-And I am also now able to do that in my day-to-day life as a student at Oxford Brookes university.
-
-So if you’re a TV and little bit of a history buff like I am, you’ve come to the right place. 
-
 ## **ABOUT THE SITE**
 
-My goals for this site is it to be a place for people to feed their curiosity on the reasons behind why you are attracted to a certain tv programme and the thoughts gone into creating a specific brand. As well as the adaptation that have taken place over a number of years.
+My goals for this site is it to be a place for people to feed their curiosity on the reasons behind why you are attracted to a certain tv programme and the thoughts gone into creating a specific brand. As well as the adaptation that have taken place over a number of years. 
+
+Many aren't even aware of what draws them to certain programmes and what captivates them in hopes that they keep watching. this site is a place for people to explore that side of the TV industry and help them in their own research.
