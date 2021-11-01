@@ -1,6 +1,6 @@
 ---
 header_feature_image: /uploads/log.jpg
-title: About
+title: About the Site
 image: ../uploads/istockphoto-524688921-170667a.jpg
 subtitle: "All About Me, My Life and My Blog "
 permalink: /about/
