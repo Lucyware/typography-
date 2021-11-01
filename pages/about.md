@@ -24,3 +24,5 @@ Me Too! Hopefully you will enjoy scrolling through and learn something new!
 My goals for this site is it to be a place for people to feed their curiosity on the reasons behind why you are attracted to a certain tv programme and the thoughts gone into creating a specific brand. As well as the adaptation that have taken place over a number of years. 
 
 Many aren't even aware of what draws them to certain programmes and what captivates them in hopes that they keep watching. this site is a place for people to explore that side of the TV industry and help them in their own research.
+
+So if you’re a TV and little bit of a history buff like I am, you’ve come to the right place.
