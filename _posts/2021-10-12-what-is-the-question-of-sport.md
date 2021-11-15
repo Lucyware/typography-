@@ -15,7 +15,7 @@ now one the world’s longest running tv sports quizzes filming 1,285 episodes o
 having over 3,000 different sporting stars appear on the show such as Jessica Ennis Hill,
 Denise Lewis, Chris Hoy, Anthony Joshua, Martina Navratilova, Michael Owen and Sebastian
 Coe along with many others. As well as a very special appearance from Princess Anne on the
-200 th episode attracting an audience of over 19 million viewers.
+200th episode attracting an audience of over 19 million viewers.
 
 ![](../uploads/unnamed.jpg)
 
@@ -37,7 +37,6 @@ the question of sport brand. This of course grew throughout time as the technolo
 advanced so did the quality of television brands along with it.
 
 ![](../uploads/hqdefault-2.jpg)
-
 
 Advancing through the ages the design of the opening title card changed again around 1992.
 In this new title sequence a globe object is presented within the centre of the screen and
