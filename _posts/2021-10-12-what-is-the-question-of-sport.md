@@ -17,13 +17,13 @@ Denise Lewis, Chris Hoy, Anthony Joshua, Martina Navratilova, Michael Owen and S
 Coe along with many others. As well as a very special appearance from Princess Anne on the
 200th episode attracting an audience of over 19 million viewers.
 
-![](../uploads/unnamed.jpg)
+![David Vine hosted the show and the team captains were Henry Cooper and Cliff Morgan. The studio guests were George Best, Ray Illingworth, Lillian Board and Tom Finney](../uploads/unnamed.jpg "The very first episode broadcast on 5 January 1970")
 
 Its long lasting and iconic history has given way to many changes throughout the program
 such as font, typeface, colours and technology, however the format of the quiz has
 remained largely intact and overall normally starts and ends as originally played.
 
-![](../uploads/hqdefault.jpg)
+![](../uploads/hqdefault.jpg "1970s Title Screen")
 
 The opening title card in the 1970s showed the question of sport title screen with a QS in
 the centre and ‘A Question OF SPORT’ underneath. The QS is designed in a connective
@@ -36,7 +36,7 @@ time to the viewer as regular colour broadcasting went live on BBC1 and ITV in N
 the question of sport brand. This of course grew throughout time as the technology
 advanced so did the quality of television brands along with it.
 
-![](../uploads/hqdefault-2.jpg)
+![](../uploads/hqdefault-2.jpg "1992 Title Screen")
 
 Advancing through the ages the design of the opening title card changed again around 1992.
 In this new title sequence a globe object is presented within the centre of the screen and
@@ -47,4 +47,8 @@ with regular contrast and regular weight. This allows the text to be seen more c
 gives a more professional reputation to the brand. However, the ‘A’ and ‘of’ are reduced in
 size compared to the other body of text making the it less legible and harder to read than
 the previous title card. Also not giving the audience a recognisable logo to associate the
-brand with.
+brand with as thy have moved away from the recognisable trach within the letter giving them a link to a sporting brand.
+
+![](../uploads/a-question-of-sport.jpeg "2021 Title Screen")
+
+Finally moving to the modern day the 2021 opening title card demonstrates the advance in technology and in digital design as they have brought back the track design but also incorpororated it more within the letters
