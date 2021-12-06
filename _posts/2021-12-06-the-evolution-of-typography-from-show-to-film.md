@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The evolution of typography from show to film "
+title: "The Evolution of Typography from Show to Film "
 date: 2021-12-06T14:28:53.004Z
 image: ../uploads/jeremy-yap-j39x2xx_8cq-unsplash.jpg
 title_color: "#ffffff"
